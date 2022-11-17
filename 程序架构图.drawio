@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T06:53:00.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="KIKoQFNPZAuA3GNYYv3N" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T06:54:23.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="FCIss8RksKXNY2MPW0bv" version="20.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="969" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1052" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" 管道施工="" id="0">
           <mxCell />
@@ -115,7 +115,7 @@
           <mxGeometry x="490" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-44" value="运动输出库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-50" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="20" height="120" as="geometry" />
@@ -130,10 +130,10 @@
           <mxGeometry x="290" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-56" value="足端控制信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="390" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-57" value="根据机器人构型特化后的足端控制信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="130" width="80" height="50" as="geometry" />
+          <mxGeometry x="610" y="130" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
