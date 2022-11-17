@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T07:02:23.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="vTDzxnVW78rosXgSm4D-" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T07:02:39.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="8BkvnJ15fxr5zt-QYQ84" version="20.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1052" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-19" value="硬件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-20" value="输出最终控制信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="35" width="60" height="30" as="geometry" />
@@ -163,10 +163,10 @@
           <mxGeometry x="690" y="280" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="110" width="20" height="120" as="geometry" />
+          <mxGeometry x="950" y="100" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-70" value="ESP32、STM32、树莓派、K210..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="190" width="160" height="50" as="geometry" />
+          <mxGeometry x="890" y="180" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
