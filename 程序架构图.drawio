@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T06:27:14.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="n8KtdSufyve6bLlhl_Ku" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T06:44:05.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="m7VYjnh81BDXrzyGWE0K" version="20.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1052" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" 管道施工="" id="0">
           <mxCell />
@@ -97,13 +97,13 @@
         <mxCell id="n69_QYQXAGHu2_i68GKL-37" value="1、遥控模式&lt;br&gt;2、自主循迹&lt;br&gt;3、二维码或形状图案识别跟踪&lt;br&gt;4、机械臂操控&lt;br&gt;5、物料搬运&lt;br&gt;6、地面站监控&lt;br&gt;7、语音图像速度识别&lt;br&gt;8、楼梯轨道障碍物等复杂地形运动&lt;br&gt;9、演示模式&lt;br&gt;10、AprilTag视觉定位导航" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="130" y="560" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="n69_QYQXAGHu2_i68GKL-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="n69_QYQXAGHu2_i68GKL-38" value="基础库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n69_QYQXAGHu2_i68GKL-40" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="n69_QYQXAGHu2_i68GKL-40" value="构型库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n69_QYQXAGHu2_i68GKL-44" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="n69_QYQXAGHu2_i68GKL-44" value="运动输出库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
