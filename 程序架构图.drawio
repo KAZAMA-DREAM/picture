@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T07:02:39.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="8BkvnJ15fxr5zt-QYQ84" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T07:04:18.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="GRIkpVSmcjdvBWlLinPP" version="20.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1052" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" 管道施工="" id="0">
           <mxCell />
@@ -153,11 +153,17 @@
         <mxCell id="n69_QYQXAGHu2_i68GKL-60" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="n69_QYQXAGHu2_i68GKL-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n69_QYQXAGHu2_i68GKL-61" target="n69_QYQXAGHu2_i68GKL-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-61" value="1、八自由度串联/并联架构&lt;br&gt;2、十二自由度串联/并联架构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-64" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="740" y="210" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n69_QYQXAGHu2_i68GKL-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n69_QYQXAGHu2_i68GKL-65" target="n69_QYQXAGHu2_i68GKL-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-65" value="1、PCA9685 PWM库、ODRIVE库&lt;br&gt;（同样的接口、根据不同主控封装不同代码）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="160" height="50" as="geometry" />
@@ -167,6 +173,12 @@
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-70" value="ESP32、STM32、树莓派、K210..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="180" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n69_QYQXAGHu2_i68GKL-71" value="IK.py" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="345" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n69_QYQXAGHu2_i68GKL-75" value="SERVO.py" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="365" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
