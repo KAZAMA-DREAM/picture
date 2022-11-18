@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T01:15:27.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="licHbngxwsY5hcoFIW3Y" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T01:17:55.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="rufoj7oCPWplVuyErmIw" version="20.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1052" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="n69_QYQXAGHu2_i68GKL-10" value="Main Thread" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="n69_QYQXAGHu2_i68GKL-10" value="Main Thread" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="80" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <object label="" id="n69_QYQXAGHu2_i68GKL-11">
@@ -27,11 +27,11 @@
         <mxCell id="n69_QYQXAGHu2_i68GKL-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n69_QYQXAGHu2_i68GKL-12" target="n69_QYQXAGHu2_i68GKL-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n69_QYQXAGHu2_i68GKL-12" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n69_QYQXAGHu2_i68GKL-12" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="470" y="35" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-13" value="控制指令、传感器信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="30" width="70" height="30" as="geometry" />
+          <mxGeometry x="293" y="30" width="70" height="30" as="geometry" />
         </mxCell>
         <object label="" id="n69_QYQXAGHu2_i68GKL-18">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="n69_QYQXAGHu2_i68GKL-19" source="n69_QYQXAGHu2_i68GKL-12" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="1020" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n69_QYQXAGHu2_i68GKL-19" value="硬件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n69_QYQXAGHu2_i68GKL-19" value="硬件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="900" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n69_QYQXAGHu2_i68GKL-20" value="输出最终控制信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
