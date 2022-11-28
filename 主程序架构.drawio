@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T12:40:36.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" version="20.6.0" etag="F2KTAXe3_T7gOA1TPjo4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T12:41:30.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" version="20.6.0" etag="hu0jZzKzd1mbqfcyFyIf" type="github">
   <diagram id="KPi0d_J8a7cCKU0iHfTQ" name="第 1 页">
     <mxGraphModel dx="1052" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="QaEz_GPDC5_vZKjdHDso-12" value="舵机转动角度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="QaEz_GPDC5_vZKjdHDso-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="220" as="sourcePoint" />
+            <mxPoint x="140" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="QaEz_GPDC5_vZKjdHDso-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
