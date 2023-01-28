@@ -1,58 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T12:42:43.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" version="20.6.0" etag="mQgEe9wlJdr8t96SSYEv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T13:51:22.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="dAHwYW_suniOSel8FnLN" version="20.8.13" type="github">
   <diagram id="KPi0d_J8a7cCKU0iHfTQ" name="第 1 页">
-    <mxGraphModel dx="1052" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="QaEz_GPDC5_vZKjdHDso-1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="QaEz_GPDC5_vZKjdHDso-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="120" as="sourcePoint" />
             <mxPoint x="280" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-3" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-3" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-4" value="Trot步态函数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-4" value="Trot步态函数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="480" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="119.5" as="sourcePoint" />
             <mxPoint x="480" y="119.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-6" value="运动学逆解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-6" value="运动学逆解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="680" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="119.5" as="sourcePoint" />
             <mxPoint x="680" y="119.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="119.5" as="sourcePoint" />
             <mxPoint x="880" y="119.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-9" value="转换为PCA9685可接受的数据，IIC发出，控制舵机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-9" value="转换为PCA9685可接受的数据，IIC发出，控制舵机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="880" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-10" value="控制信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-10" value="控制信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-11" value="足端坐标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-11" value="足端坐标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-12" value="舵机转动角度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-12" value="舵机转动角度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="QaEz_GPDC5_vZKjdHDso-9">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="QaEz_GPDC5_vZKjdHDso-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="220" as="sourcePoint" />
             <mxPoint x="140" y="240" as="targetPoint" />
@@ -61,13 +61,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="QaEz_GPDC5_vZKjdHDso-1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="QaEz_GPDC5_vZKjdHDso-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="240" as="sourcePoint" />
             <mxPoint x="220" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QaEz_GPDC5_vZKjdHDso-15" value="循环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QaEz_GPDC5_vZKjdHDso-15" value="循环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
