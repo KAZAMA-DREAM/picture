@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T16:29:05.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="qFIdsPutNXLTgZwwai23" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T16:31:32.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="dj-onAAUlrb-pv0hWIrs" version="20.8.20" type="github">
   <diagram name="第 1 页" id="_UjPobolADmWBxvbTM19">
     <mxGraphModel dx="2364" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,8 +32,8 @@
         <mxCell id="vYJ-5XcwqRUKfoO3QsCi-4" value="输入量：腿的类型 大小腿长度 起始关节角度 期望足端坐标 实际足端坐标 上次足端坐标&#xa;&#xa;算法：VMC&#xa;&#xa;输出量：关节角度" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="672" width="200" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="vYJ-5XcwqRUKfoO3QsCi-5" value="主循环" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#1ba1e2;rounded=1;fontSize=30;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="590" y="270" width="330" height="135" as="geometry" />
+        <mxCell id="vYJ-5XcwqRUKfoO3QsCi-5" value="算出关节角度" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#1ba1e2;rounded=1;fontSize=30;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1478" y="882.5" width="330" height="135" as="geometry" />
         </mxCell>
         <mxCell id="vYJ-5XcwqRUKfoO3QsCi-6" value="传入控制信号" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#d5e8d4;rounded=1;fontSize=30;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="480" width="330" height="135" as="geometry" />
@@ -64,6 +64,33 @@
             <mxPoint x="870" y="1180" as="sourcePoint" />
             <mxPoint x="1080" y="1180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vYJ-5XcwqRUKfoO3QsCi-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vYJ-5XcwqRUKfoO3QsCi-12" target="vYJ-5XcwqRUKfoO3QsCi-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="940" as="sourcePoint" />
+            <mxPoint x="1470" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYJ-5XcwqRUKfoO3QsCi-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="vYJ-5XcwqRUKfoO3QsCi-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="1220" as="sourcePoint" />
+            <mxPoint x="1400" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="1212" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYJ-5XcwqRUKfoO3QsCi-18" value="由不同步态&#xa;算出足端坐标" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d5e8d4;rounded=1;fontSize=30;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="600" width="232" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vYJ-5XcwqRUKfoO3QsCi-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=6;" edge="1" parent="1" source="vYJ-5XcwqRUKfoO3QsCi-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1880" y="970" as="sourcePoint" />
+            <mxPoint x="2040" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vYJ-5XcwqRUKfoO3QsCi-20" value="发送数据给执行器" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="880" width="200" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
