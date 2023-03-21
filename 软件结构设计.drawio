@@ -1,44 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T11:42:52.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="-4dR8HvCIjJdz05AoO9Q" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T06:38:29.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="wa3IC7ZIWiekQfT5L5tR" version="21.0.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="828" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1184" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于单片机控制的&lt;br&gt;&amp;nbsp; &amp;nbsp; 四足机器人&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;align=left;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-            <mxGeometry x="250" y="360" width="340" height="120" as="geometry" />
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;align=left;fillColor=#ffcccc;strokeColor=#36393d;gradientColor=none;shadow=0;" parent="1" vertex="1">
+            <mxGeometry x="230" y="50" width="340" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; web端控制系统&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
-            <mxGeometry x="110" y="540" width="180" height="80" as="geometry" />
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+            <mxGeometry x="90" y="230" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 客户端控制系统&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
-            <mxGeometry x="560" y="540" width="180" height="80" as="geometry" />
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+            <mxGeometry x="540" y="230" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="PZQYx8tpd580bgfNeGz_-3" value="ESP32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="460" y="375" width="120" height="90" as="geometry" />
+        <mxCell id="PZQYx8tpd580bgfNeGz_-3" value="ESP32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="440" y="65" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PZQYx8tpd580bgfNeGz_-4" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qye2ZpbGw6I2FlY2JmYTt9JiN4YTsJPC9zdHlsZT4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNNyA3aDZ2Nkg3eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik05IDBoMnY0SDl6TTUgMGgydjRINXptOCAwaDJ2NGgtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNOSAxNmgydjRIOXptLTQgMGgydjRINXptOCAwaDJ2NGgtMnptMy01VjloNHYyem0wIDR2LTJoNHYyem0wLThWNWg0djJ6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTAgMTFWOWg0djJ6bTAgNHYtMmg0djJ6bTAtOFY1aDR2MnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMyAzdjE0aDE0VjN6bTEyIDEySDVWNWgxMHoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTAgMTBsLTMgM2g2eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMyA3bC0zIDMgMyAzeiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
-          <mxGeometry x="470" y="380" width="30" height="30" as="geometry" />
+        <mxCell id="PZQYx8tpd580bgfNeGz_-4" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qye2ZpbGw6I2FlY2JmYTt9JiN4YTsJPC9zdHlsZT4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNNyA3aDZ2Nkg3eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik05IDBoMnY0SDl6TTUgMGgydjRINXptOCAwaDJ2NGgtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNOSAxNmgydjRIOXptLTQgMGgydjRINXptOCAwaDJ2NGgtMnptMy01VjloNHYyem0wIDR2LTJoNHYyem0wLThWNWg0djJ6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTAgMTFWOWg0djJ6bTAgNHYtMmg0djJ6bTAtOFY1aDR2MnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMyAzdjE0aDE0VjN6bTEyIDEySDVWNWgxMHoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTAgMTBsLTMgM2g2eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMyA3bC0zIDMgMyAzeiIvPiYjeGE7PC9zdmc+;" parent="1" vertex="1">
+          <mxGeometry x="450" y="70" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PZQYx8tpd580bgfNeGz_-5" value="服务端系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="465" y="430" width="110" height="30" as="geometry" />
+        <mxCell id="PZQYx8tpd580bgfNeGz_-5" value="服务端系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="445" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PZQYx8tpd580bgfNeGz_-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/device.svg;" vertex="1" parent="1">
-          <mxGeometry x="120" y="550" width="60" height="60" as="geometry" />
+        <mxCell id="PZQYx8tpd580bgfNeGz_-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/device.svg;" parent="1" vertex="1">
+          <mxGeometry x="100" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PZQYx8tpd580bgfNeGz_-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/browser.svg;" vertex="1" parent="1">
-          <mxGeometry x="570" y="550" width="60" height="60" as="geometry" />
+        <mxCell id="PZQYx8tpd580bgfNeGz_-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/browser.svg;" parent="1" vertex="1">
+          <mxGeometry x="550" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-18" target="3k2M49mmmamGOLBAHeh2-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="440" as="sourcePoint" />
+            <mxPoint x="630" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;ChatGPT子系统&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="3k2M49mmmamGOLBAHeh2-2">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#d80073;strokeColor=#A50040;align=left;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="604" y="360" width="140" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3k2M49mmmamGOLBAHeh2-4" target="3k2M49mmmamGOLBAHeh2-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 16px;&quot;&gt;云服务器web应用&lt;/span&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="3k2M49mmmamGOLBAHeh2-4">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="680" y="50" width="340" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="910" y="70" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="605.91" y="378" width="48.17" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-18" target="3k2M49mmmamGOLBAHeh2-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="260" as="sourcePoint" />
+            <mxPoint x="480" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="340" />
+              <mxPoint x="490" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;其余功能模块&lt;/span&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="3k2M49mmmamGOLBAHeh2-10">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+            <mxGeometry x="415" y="360" width="150" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-11" value="" style="sketch=0;outlineConnect=0;fillColor=#a0522d;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.s3_object_lambda_access_points;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="415" y="368" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="3k2M49mmmamGOLBAHeh2-13" source="dNxyNK7c78bLwvsdeMH5-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.99999999999977" y="270" as="sourcePoint" />
+            <mxPoint x="170" y="360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;其余功能模块&lt;/span&gt;&lt;/div&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="3k2M49mmmamGOLBAHeh2-13">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+            <mxGeometry x="105" y="360" width="150" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3k2M49mmmamGOLBAHeh2-14" value="" style="sketch=0;outlineConnect=0;fillColor=#a0522d;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.s3_object_lambda_access_points;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="106" y="368" width="54" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
