@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T18:44:02.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="41qWe7Fj1aoXvpXzQdAM" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T18:44:37.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="enGEupUo2cpyoWJjDV3i" version="21.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1437" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 16px;&quot;&gt;云服务器web应用&lt;/span&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="3k2M49mmmamGOLBAHeh2-4">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;align=left;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
             <mxGeometry x="750" y="50" width="340" height="120" as="geometry" />
           </mxCell>
         </UserObject>
