@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T18:33:44.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="0fPjhcFyLKVT4E2u8WKn" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T18:37:09.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="P0p-WHA_7MjEZEd1261s" version="21.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1437" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; web端控制系统&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
             <mxGeometry x="70" y="230" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -18,7 +18,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 客户端控制系统&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
             <mxGeometry x="625" y="230" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="PZQYx8tpd580bgfNeGz_-5" value="服务端系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="445" y="120" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PZQYx8tpd580bgfNeGz_-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/browser.svg;" parent="1" vertex="1">
-          <mxGeometry x="635" y="240" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3k2M49mmmamGOLBAHeh2-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-18" target="3k2M49mmmamGOLBAHeh2-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -158,12 +155,18 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 图形化编程系统&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="BKba_bZ0KiI_tl8Gr1v7-9">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=1;glass=0;treeFolding=1;treeMoving=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
             <mxGeometry x="310" y="230" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BKba_bZ0KiI_tl8Gr1v7-12" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="1">
           <mxGeometry x="75.92" y="240" width="72.16" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BKba_bZ0KiI_tl8Gr1v7-13" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.files" vertex="1" parent="1">
+          <mxGeometry x="320" y="238.5" width="64.95" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="BKba_bZ0KiI_tl8Gr1v7-14" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.monitor" vertex="1" parent="1">
+          <mxGeometry x="633" y="245.5" width="64.71" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
